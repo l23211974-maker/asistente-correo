@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+credentials.json
+client_secret_*.json
+token.json
+*.db
+informe.html
+informe.*.html
+.pytest_cache/
+build/
+dist/
+*.egg-info/
+src/*.egg-info/
+AsistenteCorreo.spec
